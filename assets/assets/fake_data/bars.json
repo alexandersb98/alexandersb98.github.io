@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Pix Pintxos & Cocktails",
+    "address": {
+      "streetName": "Grönsakstorget",
+      "streetNumber": 1,
+      "city": "Göteborg",
+      "region": "Västra Götaland",
+      "country": "SWE"
+    },
+    "openTime": "17:00",
+    "closeTime": "23:00",
+    "imageUrl": "assets/images/pintxos-cocktails.jpg"
+  },
+  {
+    "name": "Ruby Bar",
+    "address": {
+      "streetName": "Kungsportsavenyen",
+      "streetNumber": 24,
+      "city": "Göteborg",
+      "region": "Västra Götaland",
+      "country": "SWE"
+    },
+    "openTime": "14:30",
+    "closeTime": "03:00",
+    "imageUrl": "assets/images/ruby-bar.jpg"
+  }
+]
