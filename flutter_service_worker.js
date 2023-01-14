@@ -3,10 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5c419402eb7a2515a2a923d4399a685e",
+  "assets/AssetManifest.json": "8a0bbd9aa328a337b64e4f41357c793d",
 "assets/assets/fake_data/bars.json": "18a18fb9903222de6abac4de6b2ef454",
 "assets/assets/images/beer.gif": "03c0aecc99b1083697affd8fa05d8e8b",
 "assets/assets/images/beer2.jpg": "6a306bde9d2a88f292202edc969bd880",
+"assets/assets/images/home_page_background/beer-glass-background-large.jpg": "96a6c605bc96afb872b7e11915aa5424",
+"assets/assets/images/home_page_background/beer-glass-background-medium.jpg": "c2cb84184babaf9af191634fd8c888ad",
+"assets/assets/images/home_page_background/beer-glass-background-original-size.jpg": "dda675febc3c58adf87c3e7c1fec19d2",
+"assets/assets/images/home_page_background/beer-glass-background-small.jpg": "d802ca760db8b738e5f9a9f52d35a1f1",
 "assets/assets/images/pintxos-cocktails.jpg": "20e97b3b396e0756eeee74cdfd250162",
 "assets/assets/images/ruby-bar.jpg": "2caa233ef00da16f6684809d9ad56ade",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -23,9 +27,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "51ca8f598ad2170da7da1c5b878380ea",
-"/": "51ca8f598ad2170da7da1c5b878380ea",
-"main.dart.js": "b34498c8023a8825c926656812d72939",
+"index.html": "f6d64876f089d4d65a47a5d82b0ab947",
+"/": "f6d64876f089d4d65a47a5d82b0ab947",
+"main.dart.js": "baa0ddf2750e936ea6e618143187ef38",
 "manifest.json": "6429afb0cd6e89a812a812964b1135bb",
 "version.json": "bc9730459bb2281abaf0d85bb75584b6"
 };
